@@ -10,3 +10,6 @@ spring:
     show-sql: true
 env:
   dev
+girl:
+  name: qqqq
+  age: 20
