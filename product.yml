@@ -8,6 +8,3 @@ spring:
     password: root
   jpa:
     show-sql: true
-girl:
-  name: cc1
-  age: 18
