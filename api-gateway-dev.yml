@@ -11,4 +11,7 @@ zuul:
 #    product: /myProduct/**
   #排除某些路由
   ignored-patterns:
-    - /**/product/list 
+    - /**/product/listForOrder
+management:
+  security:
+    enabled: false  
